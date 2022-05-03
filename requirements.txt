@@ -15,5 +15,5 @@ bqplot
 ipywidgets
 contextily
 seaborn
-Ipython.display
+Ipython
 io
